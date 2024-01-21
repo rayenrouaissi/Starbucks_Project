@@ -1,0 +1,123 @@
+store_id,user_id,Visit_Frequency,Membership,Avg_amount_spent_pervisit,Brand_satisfaction,price_satisfaction,promotions_satisfaction,Ambiance,wifi_quality,Service_satisfaction,Overall_satisfaction,Channels,Loyalty
+S1271,1,Rarely,Yes,$ 20,4,3,5,5,4,4,3,"Starbucks Website/Apps;Social Media;Emails;Deal sites (fave, iprice, etc...)",Yes
+S1312,2,Rarely,Yes,$ 20,4,3,4,4,4,5,2,Social Media;In Store displays,Yes
+S1165,3,Monthly,Yes,$ 20,4,3,4,4,4,4,3,In Store displays;Billboards,Yes
+S1041,4,Rarely,No,$ 20,2,1,4,3,3,3,3,Through friends and word of mouth,No
+S1096,5,Monthly,No,$30,3,3,4,2,2,3,3,Starbucks Website/Apps;Social Media,Yes
+S1129,6,Rarely,No,$ 20,4,3,5,5,4,5,4,Social Media,Yes
+S1025,7,Rarely,Yes,$30,5,5,5,5,3,5,5,Starbucks Website/Apps;Social Media,Yes
+S1152,8,Rarely,Yes,$ 20,4,2,3,3,3,3,3,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1119,9,Rarely,Yes,$ 40,5,4,4,4,4,4,4,Starbucks Website/Apps;Social Media;Through friends and word of mouth,Yes
+S1078,10,Monthly,No,$30,4,3,3,4,3,3,4,Social Media;Through friends and word of mouth,Yes
+S1180,11,Rarely,No,$ 20,4,1,4,5,3,3,4,Social Media,Yes
+S1225,12,Rarely,No,$ 20,3,2,4,4,3,4,4,Starbucks Website/Apps;Social Media;Through friends and word of mouth,No
+S1205,13,Weekly,Yes,$30,4,3,2,4,4,3,4,Social Media,Yes
+S1224,14,Rarely,Yes,$ 20,4,3,4,4,4,4,3,Social Media,Yes
+S1075,15,Rarely,Yes,$ 20,5,2,5,5,5,5,2,Social Media;Through friends and word of mouth;In Store displays,No
+S1170,16,Rarely,Yes,$ 20,4,1,5,4,3,4,4,Starbucks Website/Apps,No
+S1100,17,Monthly,Yes,$30,4,3,3,4,3,3,3,Social Media,Yes
+S1203,18,Rarely,Yes,$ 20,4,4,4,4,4,4,4,Social Media;Through friends and word of mouth,Yes
+S1201,19,Weekly,Yes,$30,4,3,4,5,5,5,5,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1001,20,Rarely,Yes,$ 20,3,4,3,4,3,4,2,Emails,Yes
+S1320,21,Rarely,Yes,$30,2,2,5,3,3,4,3,Social Media;Emails,No
+S1059,22,Rarely,No,$30,5,3,4,3,3,4,5,Social Media,Yes
+S1113,23,Rarely,No,$ 20,5,2,5,5,2,4,3,Through friends and word of mouth,No
+S1288,24,Monthly,Yes,$ 20,5,4,4,5,4,4,3,Social Media;Through friends and word of mouth,Yes
+S1186,25,Rarely,No,$30,4,3,4,4,3,3,5,Through friends and word of mouth;In Store displays,Yes
+S1017,26,Monthly,Yes,$30,4,3,1,4,4,5,4,Social Media;In Store displays;Billboards,Yes
+S1216,27,Rarely,No,$ 20,4,2,4,4,4,4,2,Application offer,No
+S1029,28,Monthly,No,$30,5,3,4,4,3,4,3,Social Media,Yes
+S1237,29,Weekly,Yes,$ 40,4,5,3,3,3,4,5,Starbucks Website/Apps;Social Media;Through friends and word of mouth;In Store displays,Yes
+S1254,30,Rarely,Yes,$ 20,5,5,5,5,3,5,5,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1193,31,Monthly,Yes,$30,3,1,4,4,3,4,4,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1166,32,Weekly,Yes,$30,4,3,3,3,2,3,4,In Store displays,Yes
+S1262,33,Rarely,No,$30,2,3,5,5,3,5,5,Social Media,Yes
+S1279,34,Rarely,Yes,$ 20,3,2,3,3,3,4,3,Social Media,No
+S1179,35,Rarely,No,$ 20,3,4,4,3,4,4,3,Social Media;Through friends and word of mouth;Billboards,Yes
+S1221,36,Rarely,No,$ 20,4,2,4,4,3,4,1,Social Media,No
+S1202,37,Rarely,No,$ 20,3,3,4,4,5,5,2,Social Media,Yes
+S1142,38,Rarely,No,$ 20,5,2,3,4,4,3,5,Starbucks Website/Apps;Social Media,Yes
+S1180,39,Rarely,Yes,$30,4,4,4,4,4,4,4,In Store displays,Yes
+S1275,40,Rarely,Yes,$ 20,3,2,5,3,3,5,3,Starbucks Website/Apps;Social Media,Yes
+S1003,41,Never,No,$ 20,4,4,4,4,4,4,4,Social Media,Yes
+S1157,42,Monthly,Yes,$30,5,4,5,5,3,5,5,Starbucks Website/Apps;Social Media,Yes
+S1170,43,Weekly,Yes,$30,5,4,5,5,1,4,4,Social Media,Yes
+S1156,44,Monthly,No,$30,4,4,5,4,4,5,5,Starbucks Website/Apps;Social Media;Emails;Billboards,Yes
+S1253,45,Never,No,Zero,3,3,3,3,3,3,3,Social Media,Yes
+S1179,46,Rarely,Yes,$30,5,3,4,3,4,4,4,Social Media,Yes
+S1064,47,Never,No,$ 20,3,2,5,4,3,3,5,Through friends and word of mouth,Yes
+S1245,48,Rarely,No,Zero,3,1,5,4,3,3,2,"Social Media;Emails;Deal sites (fave, iprice, etc...);Through friends and word of mouth;In Store displays;Billboards",Yes
+S1051,49,Rarely,No,$ 20,3,4,5,4,3,4,2,Social Media;Through friends and word of mouth,Yes
+S1168,50,Rarely,Yes,$ 20,3,3,3,3,3,3,3,Social Media,Yes
+S1276,51,Rarely,Yes,$30,4,4,4,4,2,3,4,Social Media;In Store displays,Yes
+S1177,52,Rarely,No,$ 20,3,3,2,2,2,4,3,Social Media;Through friends and word of mouth,No
+S1215,53,Monthly,Yes,$ 40,5,4,3,5,3,5,5,"Starbucks Website/Apps;Social Media;Deal sites (fave, iprice, etc...);Through friends and word of mouth",Yes
+S1101,54,Rarely,No,$30,3,3,2,3,3,3,3,Social Media,Yes
+S1025,55,Rarely,Yes,$30,4,3,5,4,4,5,5,Social Media;Through friends and word of mouth,Yes
+S1254,56,Monthly,Yes,$ 20,4,3,4,3,2,3,4,Starbucks Website/Apps,Yes
+S1091,57,Rarely,No,$30,5,4,3,4,3,3,3,In Store displays,Yes
+S1108,58,Monthly,Yes,$ 20,5,5,5,5,5,5,5,Through friends and word of mouth,Yes
+S1189,59,Monthly,No,$ 20,3,3,3,3,4,3,3,Social Media,Yes
+S1248,60,Rarely,No,$ 20,4,3,4,4,3,4,3,Starbucks Website/Apps;Social Media,Yes
+S1213,61,Rarely,Yes,$ 40,2,1,5,1,4,3,3,Social Media,Yes
+S1250,62,Rarely,No,$30,5,4,3,4,3,3,3,In Store displays,Yes
+S1145,63,Rarely,No,$30,3,3,4,3,3,3,3,Social Media,Yes
+S1002,64,Rarely,Yes,$ 20,4,2,3,5,4,4,5,Social Media;Through friends and word of mouth,Yes
+S1206,65,Rarely,No,Zero,3,1,5,3,4,4,5,Social Media,No
+S1292,66,Rarely,No,$ 20,4,3,2,4,3,4,4,Through friends and word of mouth,No
+S1054,67,Monthly,Yes,$30,4,3,4,5,4,4,4,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1033,68,Never,No,Zero,3,3,3,3,3,3,3,Never hear,No
+S1191,69,Rarely,No,Zero,2,1,5,4,4,4,1,Starbucks Website/Apps;Social Media;Through friends and word of mouth,No
+S1109,70,Rarely,Yes,$ 20,3,3,5,4,3,3,4,Social Media;Through friends and word of mouth;In Store displays;Billboards,Yes
+S1010,71,Rarely,No,$ 20,4,3,4,5,5,5,3,Social Media;Through friends and word of mouth,Yes
+S1126,72,Weekly,Yes,$30,5,1,3,3,2,3,3,"Starbucks Website/Apps;Deal sites (fave, iprice, etc...)",Yes
+S1115,73,Monthly,Yes,$ 20,4,2,4,4,3,4,3,Through friends and word of mouth,Yes
+S1110,74,Rarely,Yes,$ 20,3,2,4,4,4,5,4,Starbucks Website/Apps;Social Media,Yes
+S1234,75,Rarely,No,$30,3,2,3,3,3,5,4,Social Media,Yes
+S1175,76,Rarely,Yes,$ 20,3,3,4,5,4,4,4,"Social Media;Deal sites (fave, iprice, etc...);Through friends and word of mouth",Yes
+S1058,77,Rarely,No,$ 20,4,2,5,3,2,4,4,Social Media;Emails;Through friends and word of mouth,Yes
+S1294,78,Monthly,Yes,$30,4,2,1,4,1,4,4,Social Media,Yes
+S1318,79,Rarely,No,$ 20,2,1,5,2,2,2,2,Social Media;Through friends and word of mouth,No
+S1286,80,Rarely,No,$ 20,2,2,3,2,2,2,2,"Social Media;Deal sites (fave, iprice, etc...)",No
+S1093,81,Monthly,Yes,$30,3,2,4,3,1,3,3,Starbucks Website/Apps,No
+S1241,82,Never,No,Zero,1,1,1,3,3,3,3,,No
+S1025,83,Rarely,Yes,$ 20,5,5,5,5,5,5,5,Starbucks Website/Apps,Yes
+S1312,84,Weekly,Yes,$ 20,4,4,2,4,3,4,5,Social Media,Yes
+S1011,85,Rarely,No,$30,4,2,4,3,4,4,4,In Store displays,No
+S1194,86,Monthly,Yes,$30,4,3,4,4,3,4,4,Starbucks Website/Apps;Emails,Yes
+S1121,87,Rarely,Yes,$ 40,4,3,2,3,1,2,2,Social Media;Through friends and word of mouth,Yes
+S1020,88,Rarely,Yes,$30,3,3,3,4,3,3,3,Social Media;Through friends and word of mouth,Yes
+S1127,89,Rarely,Yes,$30,4,4,4,4,4,4,4,Starbucks Website/Apps;Social Media;Through friends and word of mouth,Yes
+S1103,90,Rarely,Yes,Zero,5,5,5,5,4,5,5,Starbucks Website/Apps,Yes
+S1304,91,Weekly,Yes,$30,4,4,5,4,4,5,4,Emails,Yes
+S1247,92,Monthly,Yes,$30,4,3,4,5,5,4,5,Starbucks Website/Apps;Social Media;Emails;Through friends and word of mouth,Yes
+S1148,93,Never,No,Zero,3,3,3,3,3,3,3,Social Media,No
+S1062,94,Rarely,Yes,$ 20,5,3,5,5,4,4,1,Social Media;In Store displays,Yes
+S1029,95,Monthly,Yes,$30,3,1,3,3,1,3,2,Social Media;Through friends and word of mouth,Yes
+S1132,96,Rarely,Yes,$ 20,3,3,5,4,3,3,4,Social Media;Through friends and word of mouth;In Store displays;Billboards,Yes
+S1299,97,Rarely,No,$ 20,3,3,1,4,3,4,4,Social Media;Through friends and word of mouth,Yes
+S1078,98,Rarely,No,$30,3,3,3,3,3,3,3,Social Media,Yes
+S1237,99,Rarely,Yes,$30,4,3,4,3,3,4,4,Starbucks Website/Apps;Emails,Yes
+S1082,100,Rarely,Yes,$ 20,4,2,3,4,4,4,4,Social Media,Yes
+S1170,101,Rarely,No,$30,3,2,3,3,3,3,3,Through friends and word of mouth,Yes
+S1245,102,Rarely,No,$ 20,3,4,3,3,1,2,3,Through friends and word of mouth,Yes
+S1211,103,Daily,Yes,$30,4,2,4,4,3,3,3,Social Media;Emails,Yes
+S1038,104,Weekly,No,$ 40,4,5,5,4,4,3,3,Starbucks Website/Apps;Social Media;Through friends and word of mouth,Yes
+S1183,105,Rarely,No,$ 20,4,4,4,4,4,4,4,Social Media;Emails,No
+S1203,106,Monthly,No,$30,4,3,5,4,4,4,4,Starbucks Website/Apps,Yes
+S1146,107,Rarely,No,$30,3,3,3,3,3,3,3,Starbucks Website/Apps;Social Media,Yes
+S1250,108,Never,No,Zero,3,2,2,2,3,3,3,Starbucks Website/Apps;Social Media;Through friends and word of mouth,Yes
+S1055,109,Never,No,Zero,3,3,3,1,3,3,4,Through friends and word of mouth,No
+S1088,110,Rarely,No,$ 20,3,3,3,3,3,3,2,Social Media,No
+S1058,111,Rarely,No,Zero,4,2,3,5,4,4,2,Social Media,No
+S1100,112,Monthly,No,$ 20,5,4,4,4,4,4,4,Social Media;Through friends and word of mouth;In Store displays;Billboards,Yes
+S1062,113,Never,No,Zero,1,1,1,1,1,1,1,Billboards,No
+S1208,114,Rarely,No,$ 20,3,4,5,5,5,4,4,Social Media,Yes
+S1156,115,Rarely,No,$ 20,2,2,1,2,2,3,2,In Store displays,No
+S1061,116,Daily,No,$30,5,5,5,5,5,5,5,Social Media;Through friends and word of mouth,Yes
+S1243,117,Monthly,No,$ 20,4,4,5,4,2,3,4,Social Media,Yes
+S1313,118,Monthly,Yes,$30,3,3,5,3,2,4,4,Starbucks Website/Apps;Social Media,Yes
+S1261,119,Monthly,Yes,$ 40,5,5,5,5,5,5,5,"Starbucks Website/Apps;Social Media;Emails;Deal sites (fave, iprice, etc...);Through friends and word of mouth;In Store displays;Billboards",Yes
+S1138,120,Rarely,No,$ 20,3,2,4,3,3,3,4,Social Media;Through friends and word of mouth;In Store displays,No
+S1160,121,Rarely,No,$ 20,4,4,4,4,4,4,4,Social Media;Through friends and word of mouth;Billboards,Yes
+S1114,122,Rarely,No,$ 20,1,1,5,4,3,3,2,In Store displays,No

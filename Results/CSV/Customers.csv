@@ -1,0 +1,851 @@
+User_ID,name,location,Gender,Age,income
+1,Helen,"Wichita Falls, TX",,18,
+2,Courtney,"Apopka, FL",F,55,112000.0
+3,Daynelle,"Cranberry Twp, PA",,18,
+4,Taylor,"Seattle, WA",F,75,100000.0
+5,Tenessa,"Gresham, OR",,18,
+6,Alyssa,"Sunnyvale, TX",M,68,70000.0
+7,ken,"Spring Hill, FL",,18,
+8,Nikki,"Asheville, NC",,18,
+9,Alex,"Reisterstown, MD",M,65,53000.0
+10,Sunny,"Zionville, Other",,18,
+11,Breggetta,"Long Beach, CA",,18,
+12,Shannon,"Westerville, OH",,18,
+13,Lucy,"Fontana, CA",M,58,51000.0
+14,RAYMOND,"Kapolei, HI",F,61,57000.0
+15,Thomas,"Absecon, NJ",M,26,46000.0
+16,Felicia,"Atlanta, GA",F,62,71000.0
+17,Sean,"Hamilton, Other",M,49,52000.0
+18,Charles,"Washington, DC",,18,
+19,Miya,"Fairburn, GA",M,57,42000.0
+20,Ann,"Coquitlam, Other",F,61,40000.0
+21,Vicki,"Haltom City, TX",F,40,71000.0
+22,Shannon,"Phoenix, AZ",M,64,100000.0
+23,VD,"Davis, CA",F,78,71000.0
+24,Jennifer,"West Roxbury, MA",,18,
+25,Mark,"Homosassa, FL",M,42,69000.0
+26,Chris,"Mesquite, TX",F,56,88000.0
+27,Elizabeth,"Spring Valley, CA",,18,
+28,Kemmis,"Toronto, Other",F,33,52000.0
+29,Eva,"Montreal, Other",F,46,59000.0
+30,Tiffany,"Silver Spring, MD",M,59,41000.0
+31,Kseniia,"Old Bridge, NJ",M,67,96000.0
+32,Nilly,"Pleasant Hill, CA",O,53,52000.0
+33,Latasha,"Duffield, VA",M,22,70000.0
+34,William,"Las Vegas, NV",F,96,89000.0
+35,James,"Johnson City, TN",M,40,33000.0
+36,vincent,"East Stroudsburg, PA",F,69,57000.0
+37,J,"Mission, TX",,18,
+38,Brenda,"Sloan, IA",M,56,68000.0
+39,ANDRU,"Rocky Mount, NC",F,26,63000.0
+40,Marlene,"Oshawa, Other",,18,
+41,Paul,"Portland, OR",M,75,40000.0
+42,Trenton,"Newnan, GA",F,20,30000.0
+43,Ryan,"Santa Rosa, CA",M,45,33000.0
+44,Ian,"Beverly Hills, CA",M,61,98000.0
+45,john,"Hasbrouck Heights, NJ",,18,
+46,B,"Franklin, NC",,18,
+47,Diana,"Green Bay, WI",F,69,37000.0
+48,Ariane,"Bristol, NH",F,54,80000.0
+49,Kimberly,"Springdale, AR",M,39,51000.0
+50,Susanne,"Encinitas, CA",F,41,41000.0
+51,Gina,"Whoville, AR",F,79,48000.0
+52,Kenneth,"Minneapolis, MN",F,66,38000.0
+53,Marmar,"North Vancouver, Other",F,56,52000.0
+54,Nildee,"Cocoa, FL",F,39,56000.0
+55,Lloyd,"Fort Worth, TX",,18,
+56,Lauren,"Wadsworth, OH",M,42,96000.0
+57,Aryelle,"Chester, VA",,18,
+58,Roy,"Morristown, TN",,18,
+59,Elizabeth,"Columbus, IN",F,78,93000.0
+60,Wendy,"Wentzville, MO",M,45,48000.0
+61,Bertha,"Duluth, GA",M,29,50000.0
+62,Christopher,"Lake Elsinore, CA",M,44,35000.0
+63,Sharon,"Culpeper, VA",M,63,56000.0
+64,Lukas,"Prescott, AZ",M,36,56000.0
+65,David,"Chicago, IL",F,76,47000.0
+66,Pamela,"Crystal Falls, MI",M,68,87000.0
+67,Brooklyn,"Longwood, FL",M,75,52000.0
+68,IAm,"Lithonia, GA",M,67,76000.0
+69,Julie,"Houston, TX",M,77,51000.0
+70,Aaron,"Minneapolis, MN",M,76,64000.0
+71,Billy,"Seattle, WA",M,57,98000.0
+72,Ivan,"Costa Mesa, CA",F,53,72000.0
+73,Samantha,"Jackson, MS",F,53,117000.0
+74,J,"Englewood, CO",F,53,55000.0
+75,Jacqueline,"Oxenford, Other",F,61,112000.0
+76,RC,"Toronto, Canada, Other",F,67,77000.0
+77,Paul,"Ephrata, PA",F,58,85000.0
+78,EADream,"Garland, TX",F,46,36000.0
+79,Elle,"Laguna, Other",M,30,41000.0
+80,Tasha,"Oklahoma City, OK",M,59,89000.0
+81,Phil,"Charlotte, NC",,18,
+82,Angeline,"Philadelphia, PA",M,51,41000.0
+83,Edwin,"Toa Alta, Other",M,27,35000.0
+84,Robin,"Raleigh, NC",M,40,53000.0
+85,Fazlin,"Bukit Antarabangsa, Ampang, Other",,18,
+86,Lucy,"Lasalle, Other",F,73,91000.0
+87,Denise,"Mckinney, TX",F,74,107000.0
+88,Patrick,"Savannah, GA",M,42,66000.0
+89,Brenda,"Scappoose, OR",M,78,58000.0
+90,John,"Herculaneum, MO",F,54,53000.0
+91,Abhinav,"Abu Dhabi, Other",F,70,74000.0
+92,David,"Toronto, Other",F,49,57000.0
+93,Uday,"Orlando, FL",F,62,57000.0
+94,Erica,"Plainfield, IN",M,64,70000.0
+95,Julia,"Provo, UT",F,89,87000.0
+96,Savaa,"Trenton, NJ",M,73,51000.0
+97,Izzy,"Louisville, KY",,18,
+98,Spiros,"Allentown, PA",F,50,93000.0
+99,Ayako,"Denver, CO",F,90,98000.0
+100,Karen,"Sparks, NV",F,68,84000.0
+101,Donald,"Orlando, FL",M,60,64000.0
+102,Steven,"Essex, MD",M,45,54000.0
+103,D.,"Scottsdale, AZ",M,66,49000.0
+104,Ronald,"Sewell, NJ",,18,
+105,Ayako,"Denver, CO",,18,
+106,Mario,"Yorba Linda, CA",F,19,73000.0
+107,Johnna,"Sanford, ME",F,66,58000.0
+108,Mary Beth,"Weskan, KS",F,72,72000.0
+109,Val,"Toronto, ON",,18,
+110,Miera,"Navi Mumbai, Other",M,76,63000.0
+111,kateryna,"Lawrenceville, GA",M,52,78000.0
+112,JP,"Toronto, Ontario, Other",M,55,31000.0
+113,Giu,"Toronto, ON",F,39,60000.0
+114,Wendy,"Alexandria, VA",F,45,44000.0
+115,terri,"Apopka, FL",F,57,114000.0
+116,Kimmy,"Paterson, NJ",M,74,48000.0
+117,Tameka,"Pitcairn, PA",M,18,47000.0
+118,Karen,"Cocoa Beach, FL",M,53,96000.0
+119,Shanda,"Abilene, TX",F,59,98000.0
+120,Jamika,"Greensboro, NC",M,57,46000.0
+121,M,"Cottage Grove, MN",F,51,56000.0
+122,Linda,"Fountain Hills, AZ",,18,
+123,Jeff,"Jacksonville, FL",,18,
+124,Pamela,"Brandywine, MD",F,64,37000.0
+125,Mark,"Pearland, TX",M,71,57000.0
+126,Cathy,"Scituate, MA",F,64,66000.0
+127,Laura,"Owensboro, KY",M,83,46000.0
+128,Bobbie,"Petoskey, MI",M,26,71000.0
+129,Anthony,"Salem, OR",,18,
+130,Olesya,"Vernon, NJ",F,29,58000.0
+131,Ron,"Vancouver, BC",M,43,70000.0
+132,Angela,"Scottsdale, AZ",F,89,65000.0
+133,Karen,"Smiths Grove, KY",F,49,79000.0
+134,Ilea,"Saint Paul, IN",M,79,67000.0
+135,Bubba,"New York, NY",F,55,94000.0
+136,MARGARET,"Mount Pleasant, WI",M,55,66000.0
+137,Ron,"Portland, OR",M,45,31000.0
+138,Sara,"San Antonio, TX",M,52,30000.0
+139,Terry,"Bellevue, NE",M,39,55000.0
+140,Luis,"Hudson, WI",M,77,69000.0
+141,Brett,"Oden, AR",M,66,60000.0
+142,Peggy,"Philadelphia, PA",F,69,87000.0
+143,Stefanie,"Grand Junction, CO",M,74,53000.0
+144,Elissa,"Jacksonville, AR",,18,
+145,Iris,"Charlotte, NC",F,75,87000.0
+146,Tori,"Dayton, OH",F,59,85000.0
+147,Jim,"Mechanicsville, VA",M,47,66000.0
+148,yaloha,"Cape Coral, FL",M,20,69000.0
+149,Kathie,"Saint Paul, MN",M,60,108000.0
+150,Nancy,"Indianapolis, IN",M,65,61000.0
+151,Mary,"Bloomington, IN",M,33,43000.0
+152,Daan,"Chino Hills, CA",F,39,67000.0
+153,a. e.,"Los Angeles, CA",M,49,59000.0
+154,Nancy,"Pleasant Valley, NY",M,68,58000.0
+155,Gloria,"Ridgefield, WA",M,42,80000.0
+156,Marcela,"Chula Vista, CA",M,72,33000.0
+157,Shanyia,"Louisville, KY",F,18,49000.0
+158,P,"Ann Arbor, MI",F,32,42000.0
+159,Maelcom,"Buffalo, NY",M,67,50000.0
+160,K.,"Las Vegas, NV",M,52,42000.0
+161,E.,"Toronto, ON",M,38,64000.0
+162,Sam,"Gilbert, AZ",F,60,77000.0
+163,Bert,"Saint Louis, MO",F,62,77000.0
+164,Anne,"Santa Monica, CA",F,55,51000.0
+165,amy,"Lewisville, NC",M,22,63000.0
+166,Sharon,"Fairbanks, AK",M,34,41000.0
+167,Tessa,"Littleton, CO",M,46,60000.0
+168,Mario,"Joliet, IL",M,85,67000.0
+169,Kathy,"Lakewood, OH",F,51,85000.0
+170,Kayla,"Centereach, NY",,18,
+171,Sharon,"Grand Rapids, MI",F,53,85000.0
+172,Sherina,"Washington, DC",M,51,92000.0
+173,Jay,"Nanaimo, BC",,18,
+174,Gaye,"Victoria, BC",M,48,44000.0
+175,Samara,"Omaha, NE",M,52,72000.0
+176,cathy,"Chicago, IL",,18,
+177,Kathy,"Lakewood, OH",M,62,53000.0
+178,vincent,"Acworth, GA",M,42,62000.0
+179,Christopher,"Irving, TX",M,55,65000.0
+180,Sunhee,"Davao, Other",F,27,50000.0
+181,Akassh,"Charlotte, NC",M,68,107000.0
+182,Robert,"Georgetown, TX",F,74,83000.0
+183,Emily,"Saint Petersburg, FL",M,77,66000.0
+184,Forrest,"Draper, UT",M,35,72000.0
+185,Susie,"The Colony, TX",F,50,69000.0
+186,Swetha,"Los Angeles, CA",M,45,94000.0
+187,Danita,"Orlando, FL",M,82,87000.0
+188,E. F.,"Independence, MO",M,40,57000.0
+189,Rhonda,"North Las Vegas, NV",M,66,34000.0
+190,Bill,"Seattle, WA",M,52,63000.0
+191,Kelly,"Clackamas, OR",F,57,89000.0
+192,Trace,"Richmond, TX",M,68,69000.0
+193,Mel,"San Francisco, CA",M,21,52000.0
+194,Gord,"Calgary, AB",M,61,44000.0
+195,Mary,"New York, NY",,18,
+196,Mrs.,"New York, NY",F,58,54000.0
+197,Linda,"Denver, CO",F,67,54000.0
+198,M,"West Roxbury, MA",M,24,61000.0
+199,adam,"Other, Other",,18,
+200,Cesar,"Omaha, NE",M,26,35000.0
+201,Allison,"Riverview, FL",F,71,105000.0
+202,Basim,"Other, Other",F,69,64000.0
+203,Melody,"Phoenix, AZ",M,81,93000.0
+204,Christie,"Nampa, ID",M,62,73000.0
+205,Heidi,"Des Plaines, IL",M,38,74000.0
+206,Christopher,"Other, Other",M,61,82000.0
+207,Joseh,"Geneva, IL",F,52,92000.0
+208,Anastasia,"Sacramento, CA",M,50,70000.0
+209,Jonathan,"Raleigh, NC",M,54,118000.0
+210,naryman,"Other, OTHER",F,75,109000.0
+211,Francois,"San Marcos, CA",M,82,73000.0
+212,84euni,"Rancho Cucamonga, CA",M,64,38000.0
+213,Jeanne,"Harmony, NC",F,54,99000.0
+214,Antonia,"Dingmans Ferry, PA",,18,
+215,Vlad,"Atlanta, GA",M,82,72000.0
+216,Cathi,Canada,,18,
+217,Michael,"Jersey City, NJ",M,90,45000.0
+218,Susan,"Cincinnati, OH",F,34,67000.0
+219,carrie,"Wichita, KS",M,44,53000.0
+220,Brian,"Davis, CA",F,79,106000.0
+221,Marlon,"San Francisco, CA",F,58,95000.0
+222,Jessie,"West Monroe, LA",,18,
+223,John,"Reston, VA",F,47,74000.0
+224,Teresa,"Goodlettsville, TN",F,60,59000.0
+225,Albert,"Lansdale, PA",M,83,54000.0
+226,Meredith,"Syracuse, UT",F,74,103000.0
+227,Kristie,"Pomona, CA",M,89,101000.0
+228,Cynthia Luz,"San Diego, CA",M,68,62000.0
+229,Bryer,"Phoenix, AZ",F,63,110000.0
+230,Lesley,"Other, UK",F,40,51000.0
+231,Becky,"Magalia, CA",F,79,99000.0
+232,Trevor,United Kingdom,M,71,30000.0
+233,Nada,"Laguna Niguel, CA",F,76,114000.0
+234,Colbi,"Kansas City, MO",M,89,96000.0
+235,B,"San Diego, CA",M,63,36000.0
+236,J. K.,"Aiken, SC",,18,
+237,terry,"Bellingham, WA",M,41,83000.0
+238,Thasha,"Kennesaw, GA",F,71,56000.0
+239,Maria,"Villanova, PA",M,44,36000.0
+240,Mary,"Baltimore, MD",M,25,73000.0
+241,David,"Del Mar, CA",M,27,70000.0
+242,Keith,"Van Nuys, CA",M,67,106000.0
+243,Christopher,"Seattle, WA",F,77,80000.0
+244,M.,"Crescent City, CA",F,68,66000.0
+245,Nikcko,"Lisle , IL",M,37,64000.0
+246,Shelley,"Stockton, CA",M,55,60000.0
+247,Jason,"Bellingham, WA",M,30,54000.0
+248,Sheryl,"Robbinsville, NJ",M,51,54000.0
+249,Malinda,"Walnut, CA",F,47,92000.0
+250,Mari,"Jacksonville, AR",M,49,48000.0
+251,Thaner,"Winnipeg, MB",M,32,38000.0
+252,Cristal,"The Woodlands, TX",M,30,69000.0
+253,Angela,"Boise, ID",M,47,86000.0
+254,Ellen,"Summerville, SK",,18,
+255,Ingrid,"Orlando, FL",M,34,34000.0
+256,Jill,"Modesto, CA",F,78,101000.0
+257,Bonnie,"Meridian, ID",F,85,71000.0
+258,Lynda,"Sudbury, ON",F,75,69000.0
+259,Omar,"Jacksonville, FL",F,76,71000.0
+260,Riley,"Memphis, TN",F,89,59000.0
+261,Jill,"Beverly Hills, CA",M,58,70000.0
+262,Nick,"Antioch, CA",M,23,49000.0
+263,Guner,"Miami, FL",M,58,53000.0
+264,Pati,"Texas City, TX",,18,
+265,Judy,"Marlboro, NJ",F,64,95000.0
+266,Nancy,"Williamsport, PA",M,72,39000.0
+267,Joseph,"Escondido, CA",F,66,72000.0
+268,Claudia,"San Diego, California",F,49,68000.0
+269,Kimberly,"Las Vegas, NV",M,43,71000.0
+270,Gina,"Buffalo, Wyoming",M,58,39000.0
+271,Kathryn,"Fair Oaks, CA",M,43,76000.0
+272,Janice,"Fresno, CA",F,56,87000.0
+273,natesha,"Roanoke, VA",F,69,118000.0
+274,Bridget,"Chesapeake, Virginia",O,60,94000.0
+275,Charles,"Caronort, Saskatchewan",M,81,70000.0
+276,Katsy,"Columbia, South Carolina",M,42,91000.0
+277,Chereece,"Jacksonville, FL",M,75,71000.0
+278,Ricky,"Roanoke Rapids, NC",M,62,73000.0
+279,Barbara,"Roseville, CA",F,55,54000.0
+280,Jeff,"Yucca Valley, California",M,65,39000.0
+281,Justin,"Las Vegas, NV",M,52,46000.0
+282,Paul,"Eau Claire, MI",F,30,40000.0
+283,Karen,"Saint Joseph, MO",F,74,75000.0
+284,Brent,"Newnan, GA",F,0,63000.0
+285,Patrice,"Douglasville, GA",F,26,40000.0
+286,Art,"Anaheim, CA",F,56,53000.0
+287,Chris,"Colorado Springs, CO",M,50,90000.0
+288,Dan,"Gilbert, AZ",M,73,95000.0
+289,Katrina,"Kirkland, WA",F,49,74000.0
+290,Ken,"Fullerton, CA",M,37,50000.0
+291,Pat,"Lorton, VA",M,65,57000.0
+292,Donald,"St. John's, NL",F,64,81000.0
+293,Steven,"Van Nuys, CA",F,48,53000.0
+294,Linda,"Chantilly, VA",M,20,32000.0
+295,Johnny,"Kamloops, BC",,18,
+296,Susan,"Albuquerque, NM",M,46,40000.0
+297,David,"St. Paul, Minnesota",M,24,69000.0
+298,Melody,"Simpsonville, South Carolina",M,71,95000.0
+299,shawn,"Salem, OR",F,50,78000.0
+300,Linda,"Cambridge, MN",M,37,92000.0
+301,Toby,"Coconut Creek, Florida",F,57,81000.0
+302,Grant,"Red Deer, Alberta",,18,
+303,Cathy,"Medfield, MA",M,52,85000.0
+304,April,"Orland, CA",M,41,41000.0
+305,Anita,"Framingham, MA",F,66,74000.0
+306,Anna,"Tujunga, California",F,66,87000.0
+307,Darlene,"Mobile, Ala",F,68,120000.0
+308,Linda,"Pearlcity, HI",M,20,70000.0
+309,Rev.,"Bishop, CA",M,43,42000.0
+310,Alana,"Encinitas, CA",M,73,38000.0
+311,Phyllis,"Citrus Heights, CA",,18,
+312,Christine,"El Paso, TX",F,42,56000.0
+313,Gene,"Albuquerque, NM",M,82,110000.0
+314,Oluwaseyitan,"Calgary, AB",,18,
+315,Hugo,"Pacoima, CA",F,70,92000.0
+316,L.,"Fraziers Bottom, WV",F,42,71000.0
+317,Bob,"Saint Louis, MO",M,48,62000.0
+318,ROBERT,"Fort Myers, FL",F,53,93000.0
+319,Mary Cay,"Murrieta, CA",M,64,67000.0
+320,Jennifer,"Phoenix, AZ",M,79,90000.0
+321,Sylvia,"Peoria, IL",M,51,55000.0
+322,Elizabeth,"Castle Rock, CO",F,45,88000.0
+323,Kimberly,"Columbus, GA",F,48,105000.0
+324,Sue,"Vienna, VA",,18,
+325,Josie,"Cerritos, California",F,54,119000.0
+326,Keith,"Redding, California",M,52,48000.0
+327,Terry,"Placerville, CA",M,28,68000.0
+328,Kirita,"Compton, CA",M,69,47000.0
+329,Lori,"Rice Lake, Wi.",M,73,92000.0
+330,Mary,"Pequea, PA",,18,
+331,Justin,"El Cajon, CA",F,67,71000.0
+332,Wendy,"Austin, TX",F,76,34000.0
+333,Jack,"Marana, AZ",F,55,53000.0
+334,Melissa,"Freeport, Maine",F,89,83000.0
+335,Linda,"Knoxville, TN",,18,
+336,Susan,"Sag Harbor, New York",M,57,41000.0
+337,Dan,"Florence, OR",,18,
+338,Patricia,"Lincoln, CA",F,54,70000.0
+339,Suzanne,"Woburn, MA",,18,
+340,Ken,"Palm Desert, CA",M,58,73000.0
+341,Gail,"Anthem, AZ",,18,
+342,Suzanne,"Rayne, LA",M,49,39000.0
+343,T,"Mesquite, NV",F,73,79000.0
+344,Terrell,"Chicago, IL",F,58,76000.0
+345,Laura,"Sydney, NS",M,51,70000.0
+346,Ellie,"Fargo, ND",M,74,78000.0
+347,Roberta,"Pasadena, CA",M,53,95000.0
+348,Eric,"Houston, TX",M,61,32000.0
+349,Gaile,"Aurora, Colorado",,18,
+350,Barbara,"Macon, GA",M,41,55000.0
+351,Sean,"Kansas City, MO",F,64,95000.0
+352,Margaret,"Jacksonville, FL",,18,
+353,Gwendora,"Hawthorne, CA",,18,
+354,Lynne,"Cranston, RI",M,42,75000.0
+355,Sz,"Piitsburgh, PA",M,50,57000.0
+356,James,"Montgomery, Michigan",M,60,56000.0
+357,Leslie,"Carmel, IN",F,57,83000.0
+358,Danyele,"Sacramento, CA",F,39,54000.0
+359,Cynthia,"San Pedro, CA",,18,
+360,Kurt,"Laguna Beach, CA",F,57,67000.0
+361,Sue,"Westbury, NY",M,57,71000.0
+362,Angeli,"Santa Monica, CA",M,68,51000.0
+363,Nancy,"Fullerton, CA",F,83,114000.0
+364,Mai,"Milwaukee, WI",F,35,72000.0
+365,Martha,"Desert Hot Springs, CA",F,90,72000.0
+366,Rebecca,"New York, NY",M,56,72000.0
+367,Brad,"Elk Grove, CA",,18,
+368,Soose,"Northport, NY",M,84,81000.0
+369,S,"Beaver Falls, PA",M,62,39000.0
+370,William,"Rancho Cordova, CA",M,63,58000.0
+371,Elias,"Oakland, CA",,18,
+372,Kathryn,"Long Beach, CA",M,67,56000.0
+373,PJ,"Lima, OH",F,68,50000.0
+374,Rachel,"Toronto, ON",M,55,73000.0
+375,Alexis,"Philadelphia, PA",,18,
+376,Neal,"Canoga Park, CA",,18,
+377,Jason,"Los Angeles, CA",F,24,59000.0
+378,Raymond,"Thornton, CO",M,40,39000.0
+379,Lee,"Dobbs Ferry, NY",M,83,61000.0
+380,Doug,"Plantation, FL",,18,
+381,Ranee,"Seattle, WA",,18,
+382,J.,"Seattle, WA",F,63,41000.0
+383,Manya,"Seattle, WA",F,59,59000.0
+384,Kayu,"Pasadena, CA",O,49,42000.0
+385,Terri,"Glendale, AZ",F,61,99000.0
+386,Lynette,"Lawnside, NJ",M,42,57000.0
+387,Shanatta,"Rock Hill, SC",M,58,36000.0
+388,Thomas,"Lemont, IL",F,48,44000.0
+389,CHRISTIE,"Panorama, CA",M,35,64000.0
+390,Laurie,"Oakland, CA",M,36,31000.0
+391,Valeriy,"Bellevue, WA",F,41,100000.0
+392,Wendy,"Tacoma, WA",F,83,73000.0
+393,Anne,"Havertown, PA",M,53,87000.0
+394,Kanaha,"Las Cruces, NM",,18,
+395,Marcus,"Batavia, IL",F,53,97000.0
+396,CAROL,"Davie, FL",F,80,48000.0
+397,Ralph,"Apache Junction, AZ",M,25,66000.0
+398,Michael,"Marietta, GA",M,63,119000.0
+399,Jose,"Fremont, CA",F,63,66000.0
+400,Angie,"Jacksonville, FL",F,56,109000.0
+401,Judith,"Flossmoor, IL",M,43,59000.0
+402,Melanie,"Syracuse, NY",F,58,58000.0
+403,Grace,"Subang, Other",M,59,59000.0
+404,Susan,"Irvine, CA",M,49,104000.0
+405,Luanne,"Fife, WA",F,63,70000.0
+406,K.,"Mount Laurel, NJ",M,42,94000.0
+407,Jill,"Beverly Hills, CA",F,52,57000.0
+408,Jeffory,"Spring, TX",F,57,37000.0
+409,Fatima,"Lake Grove, NY",F,56,59000.0
+410,Justin,"Grand Junction, CO",M,80,87000.0
+411,Novella,"Casper, WY",M,43,52000.0
+412,Margo,"Charlottesville, WI",M,54,70000.0
+413,Chris,"Falls Church, VA",M,28,73000.0
+414,Melissa,"Bonney Lake, WA",F,57,95000.0
+415,Melody,"Peoria, IL",M,71,67000.0
+416,Katie,"San Jose, CA",,18,
+417,J.,"Wheat Ridge, CO",F,64,112000.0
+418,Lynn,"Centerach, NY",M,20,49000.0
+419,Rhonda,"Lancaster, CA",,18,
+420,Harold,"Ukiah, CA",,18,
+421,Arlene,"Selangor, Other",F,36,58000.0
+422,James,"Centereach, NY",F,45,99000.0
+423,Valerie,"Bloomfield, NJ",M,71,65000.0
+424,Kelly,"Altamonte Springs, FL",M,67,89000.0
+425,Kim,"Vancouver, WA",F,72,81000.0
+426,chris,"Los Angeles, CA",M,51,100000.0
+427,Ray,"Rocklin, CA",,18,
+428,Juan Paolo,"Quezon City, Other",M,48,68000.0
+429,kym,"Portand, OR",M,53,60000.0
+430,Michael,"Taytay, Other",M,25,53000.0
+431,C.,"Muntinlupa, Other",F,79,85000.0
+432,Myrich,"Antipolo, Other",M,19,32000.0
+433,Danil,"Quezon City, Other",F,28,49000.0
+434,Tim,"Roanoke, VA",M,56,76000.0
+435,DAISY,"Milpitas, CA",M,44,37000.0
+436,Jennifer,"Austin, TX",M,25,40000.0
+437,H,"Elk Grove, CA",F,61,78000.0
+438,MOHAN,"Potomac, MD",M,34,59000.0
+439,margaret,"Tacoma, WA",F,41,37000.0
+440,Wafa,"Aiken, SC",M,44,51000.0
+441,Serge,"West Palm Beach, FL",F,51,92000.0
+442,Kathy,"Hertford, NC",M,47,44000.0
+443,Rob,"Kirkland, WA",F,63,70000.0
+444,Linda,"Myrtle Beach, SC",M,62,61000.0
+445,Celeste,"El Cajon, CA",M,66,71000.0
+446,Brandy,"Denham Springs, LA",M,62,70000.0
+447,John,"Salem, OR",M,83,88000.0
+448,Doug,"Florence, MS",M,43,58000.0
+449,kimberly,"Canonsburg, PA",F,66,94000.0
+450,Valerie,"Normal, IL",M,70,44000.0
+451,YALIZA,"Spartanburg, SC",F,65,66000.0
+452,Judie,"Pahrump, NV",F,33,54000.0
+453,Pat,"New York, NY",M,63,78000.0
+454,HOWARD,"Culver City, CA",M,77,42000.0
+455,suz,"St Simons Il, GA",F,49,57000.0
+456,Michael,"Columbus, OH",M,53,104000.0
+457,C.V.,"Seattle, WA",F,61,87000.0
+458,Theresa,"Braselton, GA",M,60,38000.0
+459,Kay,"Laurel Springs, NJ",,18,
+460,Layla,"North Bergen, NJ",F,44,60000.0
+461,stella,"Deerfield Beach, FL",M,69,62000.0
+462,G.,"Denver, CO",M,39,71000.0
+463,Jill,"Kaneohe, HI",F,38,55000.0
+464,William,"Palmdale, CA",F,83,99000.0
+465,Amanda,"Centennial, CO",F,63,94000.0
+466,Christine,"Salem, MA",F,41,41000.0
+467,VICTORIA,"Salt Lake City, UT",M,54,39000.0
+468,rebecca,"New Albany, IN",,18,
+469,Charmaine,"New York, NY",M,41,55000.0
+470,Maggie,"Eugene, OR",,18,
+471,Marjorie,"Crestwood, KY",,18,
+472,Gamal,"Spring, TX",F,56,69000.0
+473,Eliza,"Elizabeth , NJ",,18,
+474,Sam,"Scarborough, ON",M,50,98000.0
+475,Nhu,"Oakland, CA",M,58,55000.0
+476,Ana,"Kernersville, NC",M,39,61000.0
+477,rob,"Concord, CA",F,60,55000.0
+478,Kathryn,"Sunland, CA",F,60,74000.0
+479,raman,"Saltlake City, UT",M,24,38000.0
+480,Michael,"New York New York, NY",M,48,57000.0
+481,gabby,"Bellflower, CA",M,50,110000.0
+482,wayne,"Renton, WA",F,41,67000.0
+483,ana,"Los Angeles, CA",M,45,84000.0
+484,jill,"Hanceville, AL",M,48,93000.0
+485,Sofia,"Miami, FL",M,59,87000.0
+486,J,"Raleigh, NC",M,43,45000.0
+487,Ryan,"Oxnard, CA",F,56,67000.0
+488,Claudia,"Lakewood, WA",M,54,93000.0
+489,Joy,"Mission Viejo, CA",F,48,47000.0
+490,Melissa,"Vista, CA",,18,
+491,Emad,"Herndon, VA",,18,
+492,Risa,"Hollywood , FL",,18,
+493,Jamie,"Brunswick, GA",M,63,49000.0
+494,Mark,"Leesburg, CA",,18,
+495,Luqman,"New York, NY",M,47,35000.0
+496,Teo,"New York, NY",M,52,56000.0
+497,Samantha,"Arlington, TX",F,58,78000.0
+498,Victoria,"Tempe, AZ",M,78,39000.0
+499,Sach,"Pune, Other",M,43,40000.0
+500,Vota,"Giza, Other",M,68,61000.0
+501,Steven,"Ponte Vedra Beach, FL",M,18,48000.0
+502,Terry,"Canton, MA",F,39,85000.0
+503,Mark,"Lahaina, Other",M,74,99000.0
+504,Kindly,"Quebec, QC",F,53,98000.0
+505,Juanita,"Modesto, CA",F,61,67000.0
+506,Abdulrazaq,"Houston, TX",M,23,54000.0
+507,Robert,"Los Angeles, CA",M,46,55000.0
+508,Amar,"Frisco, TX",M,51,78000.0
+509,john,"Fort Lauderdale, FL",M,77,86000.0
+510,Ende,"Albuquerque , NM",F,79,91000.0
+511,Alma,"Westminster, CA",M,41,41000.0
+512,Toni,"Hayward, CA",F,60,78000.0
+513,Jessica,"Stafford, TX",F,54,47000.0
+514,Melissa,"Wilmington, NC",O,63,89000.0
+515,Linda,"Vallejo, CA",M,73,76000.0
+516,Mulugheta,"Raleigh, NC",M,47,77000.0
+517,Nadine,"Albuquerque, NM",M,84,82000.0
+518,Kylie,"Grande Prairie, AB",,18,
+519,Tuesday,"Vallejo, CA",M,20,56000.0
+520,Adrian,"Renton, WA",F,24,35000.0
+521,Sasha,"Chamblee, GA",F,58,71000.0
+522,Bebesh,"San Diego, CA",M,35,40000.0
+523,Victoria,"Carmel, NY",,18,
+524,Doug,"Tallahassee, FL",M,57,33000.0
+525,rebecca,"Eugene, OR",M,87,55000.0
+526,Joselyn,"Middletown, OH",F,86,84000.0
+527,Teresa,"Prescott, AZ",F,57,100000.0
+528,Lucie,"Gainesville, FL",M,61,112000.0
+529,Eric,"Oakville, ON",M,25,53000.0
+530,Daisy,"Martinsburg, WV",M,38,31000.0
+531,Rafael,"Methuen, MA",M,94,50000.0
+532,Farah,"Bronx, NY",M,59,61000.0
+533,Slavi,"Skokie, IL",F,49,73000.0
+534,Roger,"Bethesda, MD",F,61,72000.0
+535,Chris,"Evans, GA",,18,
+536,Caron,"El Paso, TX",M,31,64000.0
+537,V,"Houston, TX",F,75,53000.0
+538,Jasmine,"Cincinatti, OH",,18,
+539,Bhaumik,"Boardman, OH",,18,
+540,Jennifer,"Oak Lawn, IL",M,51,65000.0
+541,Ada,"Porter, TX",M,68,74000.0
+542,Iryna,"Edmonton , AB",M,86,71000.0
+543,Leanne,"Columbus, OH",F,62,117000.0
+544,Heidrun,"Stephens City, VA",M,61,64000.0
+545,Laura,"Fresno, CA",,18,
+546,Sara ,"Apex, NC",F,63,57000.0
+547,Shanna,"Acme, PA",F,26,52000.0
+548,Desi,"Mackenzie, BC",F,50,77000.0
+549,Mylarapu,"Maryville, MO",,18,
+550,Kelly,"Benicia, CA",F,45,93000.0
+551,Eva,"Wasaga Beach , ON",F,88,64000.0
+552,Ashley,"Redmond, WA",F,50,92000.0
+553,Tricia,"Naga City, Other",F,65,119000.0
+554,Randy,"Chico, CA",,18,
+555,Don,"Federal Way, WA",M,55,76000.0
+556,diane,"Greer, SC",M,71,95000.0
+557,Nancy,"Missoula, MT",F,34,46000.0
+558,Bonnie,"San Juan Capistrano, CA",M,81,65000.0
+559,inshallah,"Santa Barbara, CA",,18,
+560,Wayne,"Norwalk, CT",F,65,98000.0
+561,Kelly,"Chicago, IL",,18,
+562,miguel,"Antipolo, Other",,18,
+563,judy,"Green Valey, AZ",F,63,62000.0
+564,Dennis,"Phoenix, AZ",M,73,58000.0
+565,Mark,"Cary, NC",F,84,77000.0
+566,Jacy,"Jacksonville, FL",,18,
+567,gabriele,"Vienna, Other",F,55,62000.0
+568,Luis,"Mexico, Other",M,63,70000.0
+569,Andriy,"Brooklyn, NY",F,24,51000.0
+570,June,"Jupiter, FL",M,36,74000.0
+571,Alma,"Jonesboro, GA",M,56,69000.0
+572,lerry,"Fair Oaks, CA",F,65,119000.0
+573,Lucy,"Asheville, NC",M,75,75000.0
+574,Derek,"Sylvan Lake, AB",M,71,114000.0
+575,Ellen,"Mountain Home, NC",M,71,118000.0
+576,George ,"San Diego, CA",M,61,39000.0
+577,Linda,"Melb. Bch, FL",O,73,88000.0
+578,Eldon,"Medical Lake, WA",M,19,73000.0
+579,Bill,"Seattle, WA",F,64,34000.0
+580,J,"Chicago, IL",F,66,112000.0
+581,Jenava,"Broken Arrow, OK",M,37,59000.0
+582,Delores,"Oxnard, CA",M,22,49000.0
+583,Richard,"Huntingdon, Other",F,54,96000.0
+584,Sabrina,"Aurora, CO",M,62,73000.0
+585,Will,"Los Angeles, CA",F,50,75000.0
+586,chelsie,"Portland, TX",F,80,87000.0
+587,Jeffrey,"Loa Angles, CA",M,55,112000.0
+588,Pete,"Huntersville, NC",M,40,50000.0
+589,Marlene,"New York, NY",M,43,52000.0
+590,Sara ,"Apex, NC",M,61,53000.0
+591,Benita,"Lexington, KY",F,32,43000.0
+592,Kelly,"Sacramento, CA",,18,
+593,joe,"Pensacola, FL",F,68,32000.0
+594,Kate,"Eugene, OR",F,66,104000.0
+595,Riz,"Toronto, ON",M,36,35000.0
+596,Steffanie,"Pleasant Hill, CA",M,38,60000.0
+597,Kelly,"Vancouver, WA",F,80,54000.0
+598,Jenny,"Hanford, CA",F,82,68000.0
+599,Nathanial,"Fountain Valley, CA",M,45,74000.0
+600,sarah,"Cincinnati, OH",M,89,63000.0
+601,Tom,"Las Vegas, NV",F,45,94000.0
+602,Maddie,"Pismo Beach, CA",M,59,35000.0
+603,Raul ,"Las Cruces, NM",M,22,44000.0
+604,Anny,"Modesto, CA",F,67,50000.0
+605,Walker,"Fort Myers, FL",F,30,41000.0
+606,Charlotte,"Lebanon, TN",,18,
+607,Mindy,"Marysville, WA",M,56,88000.0
+608,Araceli,"Mission, TX",F,53,100000.0
+609,Krystallena,"Hollywood, FL",,18,
+610,Umi,"Bloomington, MN",,18,
+611,David,"Phoenix, AZ",M,32,58000.0
+612,Joffre,"Balwyn North, BC",F,51,73000.0
+613,Jen,"Novato, CA",F,38,66000.0
+614,Maryse,"Melville, NY",F,52,45000.0
+615,Steve,"Denver, CO",,18,
+616,Emily,"South Salem, NY",M,55,68000.0
+617,David,"Toledo, OH",M,81,41000.0
+618,Jessica,"Napa, CA",M,55,78000.0
+619,Daniel,"Humble, TX",F,51,67000.0
+620,Andrew,"New York, NY",,18,
+621,Kip,"Vallejo, CA",F,71,74000.0
+622,Susan,"Scottsdale, AZ",M,45,84000.0
+623,Jose,"Los Angeles, CA",,18,
+624,Karen,"Grove City, OH",,18,
+625,Davida,"Las Vegas, NV",M,49,71000.0
+626,Theresa,"Chicago, IL",M,62,48000.0
+627,Bill,"Fort Myers, FL",F,65,99000.0
+628,Jessica,"Tulsa, OK",,18,
+629,Michael,"Rancho Cucamonga, CA",F,50,63000.0
+630,Kriz,"93720, ca",F,20,60000.0
+631,Julia,"Eugene, OR",F,49,31000.0
+632,Erika,"Chicago, IL",M,55,83000.0
+633,J M,"Seattle, WA",M,58,54000.0
+634,Anony,"Jupiter, FL",,18,
+635,Linda,"Temecula, CA",F,95,64000.0
+636,Maria,"San Leandro, CA",F,83,99000.0
+637,Jane,"Kansas City, MO",F,56,70000.0
+638,Corey,"Atlanta, GA",M,66,54000.0
+639,Annonymouslydiscriminated,"Brooklyn, NY",M,87,74000.0
+640,Larry,"Livermore, CA",,18,
+641,Kim,"West New York, NJ",M,55,89000.0
+642,Hedy,"Wallins, KY",F,52,114000.0
+643,Carol ,"Bend, OR",F,59,83000.0
+644,John,"Penang, OTHER",F,59,51000.0
+645,H,"San pedro, CA",F,49,74000.0
+646,Phil,"Houston, tx",F,62,46000.0
+647,Rebecca,"Indian Harbour Beach, FL",F,56,80000.0
+648,Gary ,"Aberdeen, Other",F,51,97000.0
+649,Rosina,"Lexington, MA",F,47,62000.0
+650,Michael,"Shanghai, Other",M,38,96000.0
+651,Jenny,"Hamilton, OH",M,43,44000.0
+652,Tony,"Woodbridge , ON",M,43,72000.0
+653,Janie ,"Bellevue, NE",M,49,84000.0
+654,Ruby,"San Antonio, TX",F,36,57000.0
+655,Brett ,"Lake forest, ca",F,45,58000.0
+656,Toni,"Bolton, ON",,18,
+657,Nancy,"Chicago, IL",M,53,95000.0
+658,Stacy ,"Yonkers, NY",M,43,60000.0
+659,John,"Ponte vedra beach, fl",,18,
+660,Crystal,"New York, NY",F,18,67000.0
+661,Vicki,"Portland, OR",M,40,41000.0
+662,Maggie,"Los Angeles, CA",F,83,114000.0
+663,MaryJane,"Santa ana, CA",M,49,65000.0
+664,Dale ,"Grass Valley, CA",F,51,106000.0
+665,Scott,"Elk grove , CA",M,25,55000.0
+666,Armando,"Worcester, ma",M,71,55000.0
+667,Linda,"Chino, CA",M,58,71000.0
+668,Philip,"Houston, tx",M,53,36000.0
+669,Lois,"Washington Island, WI",F,83,93000.0
+670,Dixie,"Frederick, MD",M,46,56000.0
+671,Gina,"Fresno, CA",F,69,97000.0
+672,Nathan,"Hong Kong, Other",M,51,73000.0
+673,Doaa,"Dokki Giza Egypt, NY",M,61,68000.0
+674,Angelica,"Summerville, SC, SC",F,81,101000.0
+675,Haley,"Cheney, WA",M,60,41000.0
+676,Steven,"Beverly Hills, CA",M,48,75000.0
+677,Deborah,"Bellevue, WA",F,48,87000.0
+678,Kaci,"House, NO OTHER LINE NEEDED",M,73,63000.0
+679,Robert,"Denver, CO",F,41,89000.0
+680,Alma,"Hamilton, ca",F,39,77000.0
+681,Jaxan,"Upper Lake, CA",M,31,56000.0
+682,David,"Garden Grove, CA",M,38,61000.0
+683,Amanda,"Stanley, NM",F,46,36000.0
+684,Blanca,"Bakersfield, CA",M,87,72000.0
+685,Bella,"Sacramento, CA",F,53,83000.0
+686,Rachell,"West Sacramento, CA",,18,
+687,Kim,"Lake Forest Park, WA",F,93,48000.0
+688,Rania,"Leesburg, VA",M,42,41000.0
+689,Judith,"Jersey City, NJ",M,54,79000.0
+690,Natasa,"Abbotsford, BC",M,47,53000.0
+691,Rae,"Barataria, LA",M,75,109000.0
+692,Jane,"Longview, WA",F,79,61000.0
+693,Derrick,"Desert Hot Springs, CA",F,36,64000.0
+694,Kelly,"Marietta, GA",M,30,43000.0
+695,Marcie,"West Allis, WI",M,34,50000.0
+696,Brian,"Monroe, oh",F,39,78000.0
+697,Alvia,"Auburn, WA",F,52,87000.0
+698,Kevin,"Omaha, NE",M,43,34000.0
+699,Frank,"Camp Verde, AZ",M,75,38000.0
+700,Susie,"Mayer, AZ",M,47,40000.0
+701,Margaret,"Cotati, CA",F,60,117000.0
+702,Ric,"Oakville, ON",M,31,43000.0
+703,Jayne,"Ny, NY",M,70,35000.0
+704,Norma,"La Puente, CA",F,49,36000.0
+705,James,"Kansas City, MO",M,48,56000.0
+706,James,"Kansas City, MO",M,37,36000.0
+707,Mike,"Revere, ma",,18,
+708,Hughes,"Macclesfield, Other",F,67,67000.0
+709,Sherrilynn,"Jenison, MI",M,48,65000.0
+710,Maria,"Round Hill, VA",M,69,38000.0
+711,John,"Teaneck, NJ",M,66,32000.0
+712,John,"Teaneck, NJ",M,38,56000.0
+713,Janie,"Edmond, OK",F,59,90000.0
+714,"Nan-Yen,","Hsin-Chu County, Other",M,43,65000.0
+715,Ronald,"New York, NS",M,43,41000.0
+716,Ms,"Greenbelt, MD",F,68,108000.0
+717,Tony,"North Baldwin, NY",M,60,45000.0
+718,Jeremy,"Portland, OR",M,53,39000.0
+719,Sean,"Fort Mill, SC",M,34,50000.0
+720,John,"Belmont, MA",M,77,64000.0
+721,MIchael,"New York, NY",F,88,73000.0
+722,Allegra,"Bronx , NY",,18,
+723,Cindy,"Yorba Linda, CA",F,62,88000.0
+724,Nicole,"Tustin, CA",M,63,86000.0
+725,Robert,"Pahrump, NV",M,70,99000.0
+726,Robert,"Houston, TX",M,38,33000.0
+727,Rosanna,"West bloomfield, MI",F,44,39000.0
+728,Keith,"Riverdale, GA",F,40,50000.0
+729,Rachel,"Brunswick, OH",M,51,99000.0
+730,Joy,"SEattle, WA",,18,
+731,Kelly,"Mundelein, IL",F,72,60000.0
+732,Mikey,"Tucson, AZ",M,22,45000.0
+733,Shana,"San Diego, CA",,18,
+734,D,"Tucson, az",M,72,49000.0
+735,John,"Roanoke Rapids, NC",M,70,37000.0
+736,Marisa,"Raleigh, NC",,18,
+737,Carl,"Las Vegas, NV",M,23,65000.0
+738,Ann,"Montgomery, AL",M,38,75000.0
+739,Jossia,"Mitchellville, MD",F,71,67000.0
+740,Ron,"Hollister, CA",M,50,51000.0
+741,Sandra,"Haverford, PA",M,72,35000.0
+742,Toni,"Verona, ky",M,43,31000.0
+743,Linda,"Valencia, CA",M,63,70000.0
+744,Edward,"Halifax, NS",M,73,46000.0
+745,Silvana,"Gilbert , AZ",M,53,57000.0
+746,Val,"Wrentham, BECCLES",F,37,57000.0
+747,Trinity,"Gresham, OR",,18,
+748,Soheila,"Laguna Beach, CA",M,45,44000.0
+749,Carol,"Brea, CA",M,59,61000.0
+750,Kenneth,"Beecher, IL",M,74,51000.0
+751,Billie,"Galesburg, IL",M,18,36000.0
+752,L Shawnice,"Victorville, ca",F,94,84000.0
+753,Joanne,"Rigaud, QC",M,38,33000.0
+754,Joellen,"Claremont, CA",F,67,50000.0
+755,Fred,"Nashville, TN",F,46,36000.0
+756,Barbara,"Lawrenceville, GA",M,82,41000.0
+757,Mary,"Los Angeles, CA",M,37,36000.0
+758,John,"San Clemente, CA",F,65,71000.0
+759,Michael,"Washington, DC",F,66,34000.0
+760,Carol,"Orange Park, FL",F,65,57000.0
+761,Genie,"New York, NY",,18,
+762,Teresa,"Menifee, CA",,18,
+763,Martin,"Linsldae, Leighton Buzzard, LA",F,54,52000.0
+764,Joel,"Los Angeles, CA",M,63,113000.0
+765,Debbie,"Struthers, OH",,18,
+766,Ranjeeta,"Bakersfield, CA",F,50,110000.0
+767,Nicholas,"Colo. Spgs. , CO",M,64,81000.0
+768,Martin,"Lonodn u.K, other",M,66,50000.0
+769,English,"Houston, TX",F,76,62000.0
+770,Adrian,"Buenos Aires, OTHER",F,56,82000.0
+771,David,"Sanibel, FL",M,49,75000.0
+772,Christine,"Orange, CA",F,29,53000.0
+773,Susan,"Colorado Springs, CO",,18,
+774,Sarah,"Beverly Hills, CA",F,51,56000.0
+775,Sophie,"Quebec, QC",M,69,68000.0
+776,Lisa,"Palo Alto, CA",M,48,52000.0
+777,Linda,"San Mateo, CA",M,25,68000.0
+778,Diane,"Gulf Shores, AL",M,82,78000.0
+779,Barbara,"Vancouver, BC",F,57,70000.0
+780,Mark,"Kingwood, TX",M,50,70000.0
+781,Cynthia,"Rock hill, sc",,18,
+782,Mari,"Claremont, CA",F,74,72000.0
+783,Paula,"Duarte, CA",,18,
+784,Corey,"Edmonton, AB",,18,
+785,Jan,"La, CA",F,49,59000.0
+786,K.,"Washington, DC",,18,
+787,Sorin,"Richmod Hill, ON",M,80,88000.0
+788,Kimberly,"Brentwood, TN",,18,
+789,Arpana,"Calgary, AB",F,62,81000.0
+790,Diane,"Orange Park, FL",M,63,50000.0
+791,Patricia,"Augusta, GA",F,54,109000.0
+792,Terri,"Indianapolis, IN",,18,
+793,J.King,"Ruidoso, NM",M,45,55000.0
+794,Maureen,"Lakewood, WA",F,49,110000.0
+795,Maryellen,"Richmond, TX",M,61,35000.0
+796,Ben,"Shanghai, OTHER",M,46,46000.0
+797,Carla,"Cambridge, MA",M,64,59000.0
+798,Michelle,"Yorktown, VA",,18,
+799,Katie,"Escondido, CA",F,69,89000.0
+800,Barry,"Okemos, MI",M,69,64000.0
+801,Lori,"Chicago, IL",M,66,70000.0
+802,Michelle,"Diamond Bar, CA",M,60,56000.0
+803,Nadia,"Bossier City, LA",F,40,51000.0
+804,Tim,"Chelan Falls, WA",M,74,64000.0
+805,Robin,"Granite City, IL",F,52,31000.0
+806,Anonymous,"Hackensack, NJ",,18,
+807,Janice,"Cleveland, OH",F,62,55000.0
+808,Bev,"Fortville, IN",F,61,118000.0
+809,Lorine,"Makawao, HI",F,22,55000.0
+810,Calvin,"Monterey Park, CA",M,62,35000.0
+811,Daniel,"Loveland, CO",M,23,63000.0
+812,Helen,"Gibsonville, NC",F,90,104000.0
+813,Oywong,"Monroe, LA",F,72,41000.0
+814,Dr.,"Orland Park, IL",F,69,93000.0
+815,David,"Salt Lake City, UT",F,71,43000.0
+816,Summer,"Boston, MA",M,32,38000.0
+817,Jim,"Seattle, WA",M,36,51000.0
+818,Andrea,"San Diego, CA",F,58,38000.0
+819,Nikki,"Union City, CA",M,75,103000.0
+820,Nikki,"Union City, CA",F,58,41000.0
+821,Al,"Boston, MA",M,76,69000.0
+822,Joe,"Boston, MA",,18,
+823,Kristen,"Jacksonville, FL",F,49,73000.0
+824,Josh,"Louisville, KY",F,57,90000.0
+825,Peter,"Morton Grove, IL",M,66,74000.0
+826,Barbara,"Greensboro, NC",M,33,54000.0
+827,K,"Statesboro, GA",M,54,39000.0
+828,Sherry,"Newton, MA",F,48,82000.0
+829,Susana,"Calexico, CA",F,66,62000.0
+830,Misty,"Lincoln, CA",F,46,73000.0
+831,Mike,"New York, NY",F,51,91000.0
+832,Raudys,"Miami Beach, FL",F,67,58000.0
+833,Lou,"Hackesnack, NJ",F,28,65000.0
+834,Troy,"Denver, CO",F,20,55000.0
+835,Margarita,"El Paso, TX",M,74,34000.0
+836,C.,"Allston, MA",,18,
+837,Lynette,"Los Angeles, CA",M,67,73000.0
+838,Tenzin,"Woodside, NY",,18,
+839,Rob,"Las Vegas, NV",,18,
+840,Michele,"Santa Clara, CA",M,86,55000.0
+841,Michael,"Lake Wylie, SC",M,58,83000.0
+842,Mary,"Hillsboro, OR",,18,
+843,Angie,"Innsbruck, OR",,18,
+844,Franklin,"Lisbon Falls, ME",M,67,41000.0
+845,Sabine,"Redondo Beach, CA",F,58,92000.0
+846,Becky,"Agoura Hills, CA",F,54,82000.0
+847,Bob,"Goodrich, MI",F,56,55000.0
+848,Erik,"Valley Village, CA",,18,
+849,Andrew,"Fallbrook, CA",M,58,41000.0
+850,Christian,"Ramsey, NJ",F,56,91000.0

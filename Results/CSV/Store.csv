@@ -1,0 +1,322 @@
+storeId,name,city,country
+S1000,Target Brooklyn College,Brooklyn,US
+S1001,118-24 Queens Blvd,Kew Gardens,US
+S1002,88th & Broadway,New York,US
+S1003,42nd & 2nd,New York,US
+S1004,NHL store @ 47th & Sixth,New York,US
+S1005,23rd btwn 5th & 6th,New York,US
+S1006,Houston & W. Broadway,New York,US
+S1007,Macy's 6th Floor,New York,US
+S1008,Target Staten Island T-2006,Staten Island,US
+S1009,55th & Lex,New York,US
+S1010,235th & Johnson Ave,Bronx,US
+S1011,58th btwn 3rd & Lex,New York,US
+S1012,103rd & Broadway,New York,US
+S1013,1971 86th Street,Brooklyn,US
+S1014,Cropsey Ave & Hart Place,Brooklyn,US
+S1015,Roosevelt Island,New York,US
+S1016,Empire State Building,New York,US
+S1017,78-25 37th Avenue,Jackson Heights,US
+S1018,125th & Adam Clayton,New York,US
+S1019,Eastchester Rd & Waters Pl,Bronx,US
+S1020,60th & Third,New York,US
+S1021,19th & Park,New York,US
+S1022,Marriott Financial Center,New York,US
+S1023,Pearl & Hanover,New York,US
+S1024,33-42 Hillel Place,Brooklyn,US
+S1025,Target Flushing T-1150,Flushing,US
+S1026,35th & 5th,New York,US
+S1027,59th & Columbus,New York,US
+S1028,Chambers and West Broadway,New York,US
+S1029,75th & First,New York,US
+S1030,90th & First,New York,US
+S1031,Spring and Varick,New York,US
+S1032,Broadway & Grand,New York,US
+S1033,607 Brighton Beach Ave,Brooklyn,US
+S1034,One Penn Plaza,New York,US
+S1035,Liberty & Nassau,New York,US
+S1036,57th & Seventh,New York,US
+S1037,44th & Lex,New York,US
+S1038,14th & Sixth,New York,US
+S1039,50th & Lex,New York,US
+S1040,75th & Broadway,New York,US
+S1041,Allen & Delancey,New York,US
+S1042,41st & Madison,New York,US
+S1043,55th & Seventh,New York,US
+S1044,35th Ave and 37th St,Astoria,US
+S1045,21st & 5th,New York,US
+S1046,85th & Lexington,New York,US
+S1047,46-09 Queens Blvd,Sunnyside,US
+S1048,Nassau & Fulton,New York,US
+S1049,118th & Frederick Douglas Blvd.,New York,US
+S1050,St. John's University - Queens,Jamaica,US
+S1051,Target Bronx Terminal T-2475,Bronx,US
+S1052,24th & 7th,New York,US
+S1053,Church Street & Murray,New York,US
+S1054,43rd & Madison,New York,US
+S1055,Rockefeller Center Concourse,New York,US
+S1056,15th & 3rd,New York,US
+S1057,49th & 8th,New York,US
+S1058,24th & 6th,New York,US
+S1059,52nd & 7th,New York,US
+S1060,111th & Broadway,New York,US
+S1061,114th & Broadway,New York,US
+S1062,27th & 6th,New York,US
+S1063,35th & 7th,New York,US
+S1064,60th and Broadway,New York,US
+S1065,Trump Tower @ 57th & Fifth,New York,US
+S1066,81st & Broadway,New York,US
+S1067,Spring Street at Crosby St,New York,US
+S1068,76th & Columbus,New York,US
+S1069,73rd & Columbus,New York,US
+S1070,78th & Lexington,New York,US
+S1071,66th & Third,New York,US
+S1072,49th & Seventh,New York,US
+S1073,Victory Blvd & Bradley Ave,Staten Island,US
+S1074,57th & Lex,New York,US
+S1075,Court St & Dean St,Brooklyn,US
+S1076,52nd & 8th,New York,US
+S1077,31st & 7th,New York,US
+S1078,42nd btwn 3rd & Lex,New York,US
+S1079,31-44 Steinway Street,Astoria,US
+S1080,Canal and Centre,New York,US
+S1081,96th & Madison,New York,US
+S1082,Park Row at Beekman St,New York,US
+S1083,43rd & 8th,New York,US
+S1084,2505 Richmond Avenue,Staten Island,US
+S1085,87th & Lexington,New York,US
+S1086,36th & Madison,New York,US
+S1087,43rd & 3rd,New York,US
+S1088,Broadway Btwn 37th & 38th,New York,US
+S1089,125th & Lenox,New York,US
+S1090,84th & Third,New York,US
+S1091,85th & First,New York,US
+S1092,Rockefeller Center Subway,New York,US
+S1093,Target Riverdale T-1798,Bronx,US
+S1094,42nd & 8th,New York,US
+S1095,2 Broadway,New York,US
+S1096,Queens Blvd & 67th Rd,Forest Hills,US
+S1097,Flatbush Ave Atlantic Terminal,Brooklyn,US
+S1098,Target Atlantic Terminal T-1849,Brooklyn,US
+S1099,52nd & Lex,New York,US
+S1100,42nd & 6th,New York,US
+S1101,93rd and Broadway,New York,US
+S1102,31St St & Ditmars Blvd,Astoria,US
+S1103,34th & 7th,New York,US
+S1104,157-41 Cross Bay Blvd.,Howard Beach,US
+S1105,19th & 8th,New York,US
+S1106,Court St & Joralemon,Brooklyn,US
+S1107,Water & Whitehall Streets,New York,US
+S1108,138-11 20th Avenue,Whitestone,US
+S1109,95th & Broadway,New York,US
+S1110,188th Street & 64th Ave,Fresh Meadows,US
+S1111,107-12 Continental Avenue,Forest Hills,US
+S1112,215th St. & Northern Blvd,Bayside,US
+S1113,Main St & 41St Ave,Flushing,US
+S1114,Broadway at Barclay Str,New York,US
+S1115,45th & Park,New York,US
+S1116,80th & York,New York,US
+S1117,West 23rd and 8th,New York,US
+S1118,Bay Ridge Pkwy & 3rd Ave,Brooklyn,US
+S1119,43rd & Broadway,New York,US
+S1120,65th St & 18th Ave,Brooklyn,US
+S1121,58th & Eight,New York,US
+S1122,51st btwn Park & Madison,New York,US
+S1123,Tower Square Shopping Center,Woodside,US
+S1124,Queens Center Mall,Elmhurst,US
+S1125,53rd & Sixth (NE Corner),New York,US
+S1126,48th & 3rd,New York,US
+S1127,31st & 6th,New York,US
+S1128,39th & Park,New York,US
+S1129,2530 Hylan Blvd,Staten Island,US
+S1130,Staten Island Mall,Staten Island,US
+S1131,34th & Park,New York,US
+S1132,Javits Convention Ctr Taxi North,New York,US
+S1133,86th & Columbus,New York,US
+S1134,165 Broadway - 1 Liberty,New York,US
+S1135,70th & Broadway,New York,US
+S1136,17th & 1st,New York,US
+S1137,Greenwich Ave at Bank St,New York,US
+S1138,6th & Waverly (Waverly Place),New York,US
+S1139,Secure Access: 55th & Sixth,New York,US
+S1140,54th & Lex,New York,US
+S1141,15th & Ninth,New York,US
+S1142,181st & Fort Washington,New York,US
+S1143,"Penn Station by A,C,E",New York,US
+S1144,Lafayette & Worth,New York,US
+S1145,Forest Ave & Bard Ave,Staten Island,US
+S1146,Grand Central,New York,US
+S1147,42nd & Park,New York,US
+S1148,76th & Second,New York,US
+S1149,42nd & Madison,New York,US
+S1150,29th & Park,New York,US
+S1151,164 7th Avenue,Brooklyn,US
+S1152,39th & 7th,New York,US
+S1153,8th & 16th,New York,US
+S1154,41st & 3rd,New York,US
+S1155,60th & First,New York,US
+S1156,55 Broad Street,New York,US
+S1157,195 Broadway,New York,US
+S1158,29th & 5th,New York,US
+S1159,32nd & 2nd,New York,US
+S1160,Union Square East,New York,US
+S1161,48th & Lex,New York,US
+S1162,Marriott Marquis - Street Level,New York,US
+S1163,43rd & 9th,New York,US
+S1164,56th Btwn Sixth & Seventh,New York,US
+S1165,47th & 8th,New York,US
+S1166,56th & Sixth,New York,US
+S1167,225th & Kingsbridge Plaza,Bronx,US
+S1168,Lafayette & 8th Street,New York,US
+S1169,57th Btwn Eighth & Ninth,New York,US
+S1170,Metropolitan Ave & Wood Ave,Bronx,US
+S1171,35th & 8th,New York,US
+S1172,49th btwn 8th & 9th,New York,US
+S1173,State St & Pearl Streets,New York,US
+S1174,7000 Austin Street,Forest Hills,US
+S1175, 51st & Broadway,New York,US
+S1176,23rd & 3rd,New York,US
+S1177,100 Williams Street,New York,US
+S1178,Broadway and Bond,New York,US
+S1179,Main St & Front St,Brooklyn,US
+S1180,40th & Lex,New York,US
+S1181,44th & Madison,New York,US
+S1182,49th & Madison,New York,US
+S1183,Hudson & 10th,New York,US
+S1184,Hudson & King,New York,US
+S1185,Stop & Shop-Forest Hills #539,Forest Hills,US
+S1186,6 Metro Tech at Jay Street,Brooklyn,US
+S1187,Smith St & Wyckoff St,Brooklyn,US
+S1188,910 Manhattan Avenue,Brooklyn,US
+S1189,Broadway & Canal,New York,US
+S1190,92nd & Third,New York,US
+S1191,Macy's 3rd Floor,New York,US
+S1192,63rd & Broadway,New York,US
+S1193,Stop & Shop-Staten Island #581,Staten Island,US
+S1194,81st & Columbus,New York,US
+S1195,Broadway & Thames,New York,US
+S1196,50th & 2nd,New York,US
+S1197,168th & Broadway,New York,US
+S1198,251-05 Jamaica Avenue,Bellerose,US
+S1199,145th & Bradhurst,New York,US
+S1200,2nd Ave. & 9th Street,New York,US
+S1201,28th & 7th,New York,US
+S1202,39th & 8th,New York,US
+S1203,Broadway & Reade,New York,US
+S1204,58th & Sixth,New York,US
+S1205,Limited Brands-NYC,New York,US
+S1206,3rd Ave & 92nd St,Brooklyn,US
+S1207,47th & 5th,New York,US
+S1208,7th Ave at Grove Street,New York,US
+S1209,Target East River Plaza T-2380,New York,US
+S1210,Target Queens Place T-1344,Elmhurst,US
+S1211,Target Flushing T-2451,Flushing,US
+S1212,96th & Lexington,New York,US
+S1213,31-01 Broadway,Astoria,US
+S1214,23rd & Park,New York,US
+S1215,514 86th St,Brooklyn,US
+S1216,Target Gateway T-1401,Brooklyn,US
+S1217,43rd & Sixth,New York,US
+S1218,8th Ave just south of 14th St,New York,US
+S1219,69th & First,New York,US
+S1220,W Broadway & Leonard Street,New York,US
+S1221,Macy's-Kings Plaza #6,Brooklyn,US
+S1222,36th & 6th,New York,US
+S1223,26th & Broadway,New York,US
+S1224,3rd St & First Avenue,New York,US
+S1225,134 Montague Street,Brooklyn,US
+S1226,25th & Lex,New York,US
+S1227,52nd Btwn Fifth & Sixth,New York,US
+S1228,100th & Columbus,New York,US
+S1229,348 Fulton Street,Brooklyn,US
+S1230,John & Water Streets,New York,US
+S1231,42nd & 9th,New York,US
+S1232,Barclays Center,Brooklyn,US
+S1233,Macy's 2nd Floor,New York,US
+S1234,53rd & Sixth (SW Corner),New York,US
+S1235,13th & 1st,New York,US
+S1236,58th Btwn Madison & Fifth,New York,US
+S1237,Manhattan Mall 1st Floor,New York,US
+S1238,Brookfield Place 1,New York,US
+S1239,Queens Blvd & Broadway,Elmhurst,US
+S1240,164 Park Place,Brooklyn,US
+S1241,28th & 3rd,New York,US
+S1242,63rd & Lexington,New York,US
+S1243,106 Page Avenue,Staten Island,US
+S1244,Pearl & Maiden,New York,US
+S1245,99 Wall Street,New York,US
+S1246,47th & Broadway,New York,US
+S1247,Port Authority South Wing,New York,US
+S1248,395 Flatbush Ave Extension,Brooklyn,US
+S1249,Macy's Mezzanine,New York,US
+S1250,53rd & Madison,New York,US
+S1251,57th & Eighth,New York,US
+S1252,1417 Kings Highway,Brooklyn,US
+S1253,23rd & 1st,New York,US
+S1254,Target Staten Island T-2753,Staten Island,US
+S1255,99th & Broadway,New York,US
+S1256,Broadway & Dyckman,New York,US
+S1257,UNIQLO @ 53rd & Fifth,New York,US
+S1258,87th & Third,New York,US
+S1259,60 Wall St,New York,US
+S1260,49th & Park,New York,US
+S1261,53rd Inside Park Ave Plaza,New York,US
+S1262,6th Ave at Walker Street,New York,US
+S1263,Astoria Blvd & 31st St,Astoria,US
+S1264,Fordham Plaza,Bronx,US
+S1265,Target Bronx T-2811,Bronx,US
+S1266,Manhattan College - Thomas Hall Stu,Bronx,US
+S1267,45th & 5th,New York,US
+S1268,Union Ave & Ainslie St,Brooklyn,US
+S1269,239 Bleecker St,New York,US
+S1270,54th and Broadway,New York,US
+S1271,Kings Plaza Mall,Brooklyn,US
+S1272,Franklin Ave & Eastern Pkwy,Brooklyn,US
+S1273,132-40 Metropolitan Ave,Richmond Hill,US
+S1274,Caesar's Bay Shopping Center,Brooklyn,US
+S1275,154 N Seventh St,Brooklyn,US
+S1276,3805 Main St,Flushing,US
+S1277,43rd & Lex,New York,US
+S1278,80th & Second,New York,US
+S1279,New York University,New York,US
+S1280,Water St @ Broad (inside),New York,US
+S1281,53rd & 3rd,New York,US
+S1282,57th & Tenth,New York,US
+S1283,14 Wall St,New York,US
+S1284,394 Myrtle Ave,Brooklyn,US
+S1285,45th btwn Lex & 3rd,New York,US
+S1286,Gold St & Johnson Street,Brooklyn,US
+S1287,Teavana - Staten Island Mall,Staten Island,US
+S1288,Teavana - Queens Center,Elmhurst,US
+S1289,110th & Manhattan,New York,US
+S1290,Teavana - Manhattan Project,New York,US
+S1291,Teavana - Broadway at 81st,New York,US
+S1292,230th & Broadway,Bronx,US
+S1293,32nd btwn 6th & 7th,New York,US
+S1294,Lam Group @ Sheraton Brooklyn,Brooklyn,US
+S1295,63rd & 3rd Ave,New York,US
+S1296,161st & Morris Ave,Bronx,US
+S1297,ABC 77 West Cafe,New York,US
+S1298,Union Square West,New York,US
+S1299,33rd btwn 5th & 6th,New York,US
+S1300,Starbucks Level 3 Jacob Javits Cemt,New York,US
+S1301,26th between 10th and 11th,New York,US
+S1302,40th btwn Madison & 5th,New York,US
+S1303,6th between 39th and 40th,New York,US
+S1304,89th Ave & Sutphin Blvd.,Jamaica,US
+S1305,Flatbush Ave & Kings Hwy,Brooklyn,US
+S1306,92-77 Queens Blvd,Rego Park,US
+S1307,46th between 6th and 5th,New York,US
+S1308,222 Broadway,New York,US
+S1309,Columbus Circle Subway,New York,US
+S1310,95-17 63rd Drive,Rego Park,US
+S1311,Eastchester Rd. & Morris Park Ave.,Bronx,US
+S1312,JP Morgan New York Plaza - 14th FL,New York,US
+S1313,Throgs Neck Shopping Center,Bronx,US
+S1314,Brookfield Place 2,New York,US
+S1315,Broadway and 9th,New York,US
+S1316,10 Waverly Place,New York,US
+S1317,85th & Madison,New York,US
+S1318,7th Ave and 9th St,Brooklyn,US
+S1319,93rd & Second,New York,US
+S1320,Woodrow Shopping Plaza,Staten Island,US
